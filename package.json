@@ -1,0 +1,12 @@
+{
+  "name": "datastructures",
+  "version": "1.0.0",
+  "description": "Exercises about data structure in js",
+  "main": "linkedLists.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
